@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: a7fae62163124ec4499b72498673fb13
+guid: e0fffa565b0d24c40a8ec4852fd4d009
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2522317127325722955
-    second: newcube_0
+      213: 2002639712689432719
+    second: normal_map_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
-    sRGBTexture: 1
+    enableMipMap: 1
+    sRGBTexture: 0
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -55,9 +55,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 1
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: newcube_0
+      name: normal_map_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 144
         height: 144
-      alignment: 9
-      pivot: {x: 0.47932816, y: 0.71705425}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b6dddebfedeefcd0800000000000000
-      internalID: -2522317127325722955
+      spriteID: f88a1ff453ecacb10800000000000000
+      internalID: 2002639712689432719
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8937a4b26bb16ff4a8fbba0cf24bc179
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      newcube_0: -2522317127325722955
+      normal_map_0: 2002639712689432719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
