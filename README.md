@@ -1,2 +1,2 @@
-# Isometric 2D with 3D lighting 
+# Isometric 2D scene with 3D lighting 
 
