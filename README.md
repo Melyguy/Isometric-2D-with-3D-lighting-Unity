@@ -6,7 +6,7 @@
 ![Skjermopptak 2025-11-27 102547.gif](https://raw.githubusercontent.com/bucketio/img1/main/2025/11/27/1764235610831-6b49e42e-fda5-4ef3-868e-d23f1ed63ba4.gif 'Skjermopptak 2025-11-27 102547.gif')
 
 
-### This project was made so i could learn about isometric tilemaps and making 2d sprites look like they are being lit up in 3d. I did this with the use of normal maps.
+### This project was made so i could learn about isometric tilemaps and making 2d sprites look like they are being lit up in 3d. I did this with the use of normal maps. All of this was alot more simple than i thought it would be and i was able to make it without any code. Except making the light move.
 
 
 ----
