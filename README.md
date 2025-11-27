@@ -19,3 +19,8 @@
 
   - I spent some time figuring out how unity's tilemap system and I finally figured out how to make a tilemap of these cubes.
     ![Skjermbilde 2025-11-27 083708.png](https://raw.githubusercontent.com/bucketio/img8/main/2025/11/27/1764231758329-133199d2-6c78-4930-a924-e27efb9abbc2.png 'Skjermbilde 2025-11-27 083708.png')
+
+
+  - When we now flash a light on the plane we se that the light behaves more 3-dimentional than it did before. We can see that the light travels along the faces instead of lighting up the entire cube
+
+   ![Skjermopptak 2025-11-27 084324.gif](https://raw.githubusercontent.com/bucketio/img16/main/2025/11/27/1764235348334-4b2e919d-960d-4f57-896f-8d2beb552546.gif 'Skjermopptak 2025-11-27 084324.gif')
