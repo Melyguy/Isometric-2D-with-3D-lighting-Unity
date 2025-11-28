@@ -27,3 +27,10 @@
   - When we now flash a light on the plane we se that the light behaves more 3-dimentional than it did before. We can see that the light travels along the faces instead of lighting up the entire cube
 
    ![Skjermopptak 2025-11-27 084324.gif](https://raw.githubusercontent.com/bucketio/img16/main/2025/11/27/1764235348334-4b2e919d-960d-4f57-896f-8d2beb552546.gif 'Skjermopptak 2025-11-27 084324.gif')
+
+
+   ## Shading
+
+   ### the final small hurdle i had left was giving a shadow to the little guy in the scene. I did this by creating a little shader in unitys shader graph.
+   ![Skjermbilde 2025-11-28 111152.png](https://raw.githubusercontent.com/bucketio/img15/main/2025/11/28/1764324802850-703e3139-279d-4c49-9ea9-e89ce9d3bee0.png 'Skjermbilde 2025-11-28 111152.png')
+
